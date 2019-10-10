@@ -38,6 +38,17 @@ cirros:cubswin:)
 root:uClinux
 root:alpine
 root:dottie
+root:compass
+hacker:compass
+samurai:samurai
+ubuntu:ubuntu
+root:openvpnas
+misp:Password1234
+root:wazuh
+student:password123
+root:roottoor
+centos:reverse
+root:reverse
 root:arcsight
 root:unitrends1
 vagrant:vagrant
